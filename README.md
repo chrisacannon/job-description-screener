@@ -4,7 +4,7 @@ A single-file web tool that screens job postings against a resume and drafts a t
 
 **This is the general-purpose version.** Anyone can open the page, paste in their own resume, and answer a short set of guided questions about how they want roles scored — no code editing required. It's a template meant to be picked up and used with someone else's background, not tied to any one person's job search.
 
-**Live:** https://chrisacannon.github.io/job-screener/ *(update this once your repo/Pages URL is set)*
+**Live:** https://chrisacannon.github.io/job-description-screener/
 
 ## What it does
 
